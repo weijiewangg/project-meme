@@ -1,3 +1,3 @@
 # project-meme
 
-#Course project
+Course project
